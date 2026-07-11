@@ -1,5 +1,5 @@
+discord.py
 openai
-requests
-discord
-dotenv
+python-dotenv
 flask
+requests
