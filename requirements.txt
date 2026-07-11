@@ -1,3 +1,5 @@
 openai
 requests
 discord
+dotenv
+flask
