@@ -14,7 +14,7 @@ Grammar Correction • Native Expressions • Professional Writing • IELTS Fee
 
 ### 🌐 Join Our Discord Community
 
-## https://discord.gg/DPsRBxyM
+## [https://discord.gg/VNxzt7SxYa](https://discord.gg/VNxzt7SxYa)
 
 </div>
 
@@ -287,7 +287,7 @@ Join our Discord server for:
 - AI Discussions
 - Project Updates
 
-## 🔗 https://discord.gg/DPsRBxyM
+## 🔗 [https://discord.gg/VNxzt7SxYa](https://discord.gg/VNxzt7SxYa)
 
 ---
 
